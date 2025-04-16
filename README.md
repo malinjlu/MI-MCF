@@ -1,2 +1,2 @@
 # MI-MCF
-Code for "MI-MCF: A Mutual Information Based Multi-Label Causal Feature Selection"
+Code for "MI-MCF: A Mutual Information-Based Multilabel Causal Feature Selection"
